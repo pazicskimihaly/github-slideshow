@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+What do you call a pig that know karate? a pork chop
 Use the left arrow to go back!
